@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "reject",
+        "link": "https://www.youtube.com/@watchinchaos"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "slopes",
+        "link": "https://www.youtube.com/@xslopes"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "kolt",
+        "link": "https://www.youtube.com/@kolt-4"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nilo",
+        "link": "https://www.youtube.com/@nilogmd"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "birthday world 3d",
+        "link": "https://www.youtube.com/@axisreject"
     }
 ]
