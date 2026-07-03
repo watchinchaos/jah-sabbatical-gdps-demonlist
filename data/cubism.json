@@ -6,13 +6,5 @@
     "verifier": "the",
     "verification": "https://www.youtube.com/watch?v=E8Sywd9Tnh4",
     "percentToQualify": 40,
-    "password": "0",
-    "records": [
-        {
-            "user": "Ohio Flegle",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "password": "0"
 }

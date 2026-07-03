@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=wlGQbWgs3Iw",
     "percentToQualify": 40,
     "password": "0",
-    "records": []
+    "records": [
+        {
+            "user": "deathly",
+            "link": "https://www.youtube.com/watch?v=qO7ZuSyQ9aE",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
